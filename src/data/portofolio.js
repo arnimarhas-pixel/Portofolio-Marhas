@@ -84,15 +84,7 @@
 
   export const projects = [
      {
-    id: 1,
-    title: "Detective SQL Game",
-    description:
-      "A simple interactive game where you play as a detective who tries to solve a mystery",
-    category: "Miscellaneous",
-    tags: ["SQL", "Game", "Education"],
-    link: "https://github.com/Ram2thedani/quiz_detektif",
-    image: "/public/detective.jpeg",
-    color: "from-blue-500 to-cyan-400",
+    
   },
   ];
 
