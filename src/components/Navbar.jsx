@@ -7,7 +7,7 @@ export default function Navbar({initials}) {
                     <span className="grid size-9 place-items-center bg-brand text-sm text-white">
                         {initials}
                     </span>
-                    <span className="hidden sm:inline">Muhamad Ramdani</span>
+                    <span className="hidden sm:inline">Arni Jamaliyah</span>
                 </a>
                 <ul className="hidden items-center gap-8 md:flex">
                     <li><a href="#about" className="text-sm font-medium text-muted hover:text-brand">About</a></li>
